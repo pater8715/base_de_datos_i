@@ -1,2 +1,2 @@
-# base_de_datos_i
-herraminetas y material para el el desarrollo del curso
+# Base de datos I
+Herraminetas y material para el el desarrollo del curso
