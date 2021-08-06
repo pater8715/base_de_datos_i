@@ -1,2 +1,2 @@
 # Base de datos I
-Herraminetas y material para el el desarrollo del curso
+Herraminetas y material para el desarrollo del curso
